@@ -14,4 +14,4 @@ By clicking the Play and Pause buttons you can modify the display of a label.
 
 ![docs/images/PlayAndStop_2.gif](docs/images/PlayAndStop_2.gif)
 
-![docs/images/PlayAndStop_2.png](docs/images/PlayAndStop_2.png)
+![docs/images/PlayAndStop_2.PNG](docs/images/PlayAndStop_2.PNG)
